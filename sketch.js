@@ -12,7 +12,7 @@ var c1,c2,c3,c4,cars;
 
 var track,car1,car2,ground;
 function preload(){
- track = loadImage("images/track.jpg");
+ track = loadImage("track1.jpg");
  car1 = loadImage("images/car1.png");
  car2 = loadImage("images/car2.png");
  car3 = loadImage("images/car3.png");
